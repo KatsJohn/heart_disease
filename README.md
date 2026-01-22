@@ -6,7 +6,7 @@ The project walks through the complete data science workflow: data loading, expl
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Cardiovascular diseases (CVDs) are among the leading causes of death worldwide. Early detection of heart failure can significantly improve patient outcomes. In this project, machine learning models are trained to predict the presence of heart disease using structured patient data.
 
@@ -14,7 +14,7 @@ The notebook is designed to be educational and practical, combining theory, visu
 
 ---
 
-## 🧠 Models Used
+## Models Used
 
 Several supervised learning algorithms are implemented and compared:
 
@@ -28,7 +28,7 @@ Each model is trained, evaluated, and compared using appropriate performance met
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 * The dataset is loaded from a CSV file (`heart.csv`)
 * Contains clinical features such as age, sex, chest pain type, cholesterol, blood pressure, and more
@@ -38,7 +38,7 @@ Each model is trained, evaluated, and compared using appropriate performance met
 
 ---
 
-## 🔍 Workflow
+## Workflow
 
 1. **Import Libraries** – NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, etc.
 2. **Data Loading** – Read and inspect the dataset
@@ -58,7 +58,7 @@ Each model is trained, evaluated, and compared using appropriate performance met
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 
 The notebook includes:
 
@@ -71,55 +71,21 @@ These help in understanding the data and interpreting model behavior.
 
 ---
 
-## 🚀 How to Run
-
-### Option 1: Google Colab (Recommended)
-
-Click the badge at the top of the notebook or upload the file directly to Colab:
-
-* Ensure the dataset is available in your Google Drive
-* Update the file path if necessary
-
-### Option 2: Run Locally
-
-1. Clone the repository
-2. Install dependencies:
-
-   ```bash
-   pip install numpy pandas matplotlib seaborn scikit-learn
-   ```
-3. Open the notebook:
-
-   ```bash
-   jupyter notebook heart_failure_prediction_project1.ipynb
-   ```
-4. Update the dataset path and run all cells
 
 ---
 
-## 📁 File Structure
+## Tools & Libraries
 
-```
-├── heart_failure_prediction_project1.ipynb
-├── heart.csv   # dataset (not included unless added)
-└── README.md
-```
-
----
-
-## 🛠 Tools & Libraries
-
-* Python 3
 * NumPy
 * Pandas
 * Matplotlib
 * Seaborn
 * scikit-learn
-* Google Colab (optional)
+* Google Colab
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This project is ideal for:
 
@@ -127,12 +93,6 @@ This project is ideal for:
 * Practicing end-to-end ML workflows
 * Understanding healthcare-related prediction problems
 * Academic coursework or portfolio projects
-
----
-
-## 📜 License
-
-This project is for educational purposes. Feel free to use, modify, and experiment with the code.
 
 ---
 
