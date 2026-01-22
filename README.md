@@ -90,7 +90,7 @@ The purpose of this project is to practice and demonstrate how supervised machin
 
 ## Files Included
 
-The repository includes 3 files :
+The repository includes 2 files :
 
 * A Power Point Presentation summarizing the project
 * The Python Code for the project 
