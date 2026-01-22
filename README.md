@@ -86,3 +86,12 @@ These help in understanding the data and interpreting model behavior.
 
 The purpose of this project is to practice and demonstrate how supervised machine learning models can be used to predict heart disease from medical data. It focuses on understanding the full machine learning workflow, from data exploration to model evaluation.
 
+---
+
+## Files Included
+
+The repository includes 3 files :
+
+* A Power Point Presentation summarizing the project
+* The Python Code for the project 
+
