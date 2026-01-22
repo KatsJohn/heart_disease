@@ -1,4 +1,3 @@
-# heart_disease
 # Heart Failure Prediction – Supervised Machine Learning
 
 This repository contains a Jupyter Notebook that explores and solves a **supervised machine learning classification problem** focused on **predicting heart failure** based on clinical and demographic data.
