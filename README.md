@@ -84,10 +84,5 @@ These help in understanding the data and interpreting model behavior.
 
 ## Purpose
 
-This project is ideal for:
-
-* Learning supervised machine learning
-* Practicing end-to-end ML workflows
-* Understanding healthcare-related prediction problems
-* Academic coursework or portfolio projects
+The purpose of this project is to practice and demonstrate how supervised machine learning models can be used to predict heart disease from medical data. It focuses on understanding the full machine learning workflow, from data exploration to model evaluation.
 
