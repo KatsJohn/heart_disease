@@ -94,10 +94,3 @@ This project is ideal for:
 * Understanding healthcare-related prediction problems
 * Academic coursework or portfolio projects
 
----
-
-## 👤 Author
-
-Created as part of a supervised machine learning project on heart failure prediction.
-
-Happy coding ❤️
